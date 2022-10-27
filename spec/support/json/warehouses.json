@@ -1,8 +1,1 @@
-[
-  {
-    "id":1,"name":"Aeroporto Cwb","code":"CWB","city":"Curitiba","area":15000,"created_at":"2022-09-21T16:38:11.133Z","updated_at":"2022-09-21T17:10:43.223Z","address":"Aeroporto Cwb","cep":"81000-000","description":"Aeroporto Cwb de logística"
-  },
-  {
-    "id":3,"name":"Aeroporto SP","code":"GRU","city":"Guarulhos","area":100000,"created_at":"2022-09-28T22:05:03.629Z","updated_at":"2022-09-28T22:05:03.629Z","address":"Avenida do Aeroporto, 1000","cep":"15000-000","description":"Galpão destinado para cargas internacionais"},{"id":2,"name":"São Paulo","code":"ABC","city":"SP","area":100000,"created_at":"2022-09-21T20:16:05.538Z","updated_at":"2022-09-21T20:16:05.538Z","address":"Av getulio 12","cep":"13456-789","description":"m\nais um galpão"
-  }
-]
+[ { "id":1,"name":"Aeroporto SP","code":"GRU","city":"Guarulhos","area":100000,"created_at":"2022-09-28T22:05:03.629Z","updated_at":"2022-09-28T22:05:03.629Z","address":"Avenida do Aeroporto, 1000","cep":"15000-000","description":"Galpão destinado para cargas internacionais"},  { "id":2,"name":"Aeroporto Cwb","code":"CWB","city":"Curitiba","area":15000,"created_at":"2022-09-21T16:38:11.133Z","updated_at":"2022-09-21T17:10:43.223Z","address":"Aeroporto Cwb","cep":"81000-000","description":"Aeroporto Cwb de logística" } ]
