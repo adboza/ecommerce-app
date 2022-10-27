@@ -3,7 +3,7 @@
   <p>Nenhum galpão encontrado</p>
 <% end %>
 <% @warehouses.each do |w| %>
-  <%= w["name"] %>
+  <%= link_to w["name"], warehouse_path(w["id"]) %>
   <%= w["code"] %>
   <%= w["city"] %>
 <% end %>
